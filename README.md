@@ -1,5 +1,5 @@
 # Countries
-Countries in the form of
+Countries in the form of:
 - dropdown list (txt) 
 - python list 
 
