@@ -1,4 +1,5 @@
-countries_africa = ['Algeria',
+countries_africa = [
+ 'Algeria',
  'Angola',
  'Benin',
  'Botswana',
@@ -51,4 +52,5 @@ countries_africa = ['Algeria',
  'Tunisia',
  'Uganda',
  'Zambia',
- 'Zimbabwe']
+ 'Zimbabwe'
+]
