@@ -1,5 +1,7 @@
 # Countries
-Countries dropdown list (txt)
+Countries in the form of
+- dropdown list (txt) 
+- python list 
 
 This is a plain text dropdown list of all of the countries of the world which are recognised by the United Nations (UN), listed alphabetically.
 
