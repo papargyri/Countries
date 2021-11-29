@@ -1,4 +1,5 @@
-countries_asia = ['Afghanistan',
+countries_asia = [
+ 'Afghanistan',
  'Armenia',
  'Azerbaijan',
  'Bahrain',
@@ -45,4 +46,5 @@ countries_asia = ['Afghanistan',
  'United Arab Emirates',
  'Uzbekistan',
  'Vietnam',
- 'Yemen']
+ 'Yemen'
+]
