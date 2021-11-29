@@ -1,4 +1,5 @@
-countries_europe = ['Albania',
+countries_europe = [
+ 'Albania',
  'Andorra',
  'Austria',
  'Belarus',
@@ -41,4 +42,5 @@ countries_europe = ['Albania',
  'Sweden',
  'Switzerland',
  'Ukraine',
- 'United Kingdom']
+ 'United Kingdom'
+]
