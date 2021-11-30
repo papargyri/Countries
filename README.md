@@ -3,6 +3,9 @@ Countries in the form of:
 - dropdown list (txt) 
 - python list 
 
+<p align="center">
+  <img width="550" src="https://unsplash.com/photos/1TjORT2dLOw">
+</p>
 There are lists (in plain text and as python lists) of all the countries of the world which are recognised by the United Nations (UN), listed alphabetically.
 
 Of the 195 countries in the world:
